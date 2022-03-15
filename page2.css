@@ -1,0 +1,19 @@
+.questionHeader {
+  text-align: center;
+}
+.photo {
+  justify-content: center;
+  margin-left: 35%;
+
+  height: 30%;
+  width: 30%;
+}
+.choiceBox {
+  width: 40%;
+  height: 40%;
+  padding-bottom: 30%;
+  border: 5px black solid;
+}
+.mainQuestion {
+  text-align: center;
+}
